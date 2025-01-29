@@ -678,6 +678,11 @@ body {
   transform: rotate(3deg);
 }
 
+.form {
+  max-width: 320px;
+  margin: 0 auto;
+}
+
 .price-container .price {
   color: #2486bf;
   text-align: center;
